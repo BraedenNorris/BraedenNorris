@@ -1,6 +1,6 @@
 # 👋 I'm Braeden.
 
-I’m a software engineer who likes to waste time on Twitter and trading stocks. 
+I'm working on investments and platform at Propel VC.
 
 I study computer science at the University of Wisconsin - Madison.
 
